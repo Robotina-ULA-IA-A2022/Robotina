@@ -1,5 +1,6 @@
 # Robotina
 Robotina es un agente que se encarga de aprender los patrones de vida de los habitantes de un hogar y en base a dichos patrones gestionar las comodidades para darles una experiencia de vida agradable, ayudarlos a optimizar su consumo de energía y darles mayor seguridad! 
+
 ## Requisitos
 
 `python3+`
